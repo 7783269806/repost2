@@ -2,6 +2,6 @@ class hello
 {         
 	public static void main()
 	{
-		system.out.println("hello.java");
+		system.out.println("hello modf");
 	}
 }
